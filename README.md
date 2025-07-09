@@ -7,16 +7,13 @@ This is a command-line quiz application built using Object-Oriented Programming 
 <br>QuizBrain: manages question progression, user input, and scoring
 
 Technologies Used:
-<br>-Python3
-<br>-Classes and Objects (OOP)
-<br>-Lists, loops, conditionals, input/output
-<br>-Data source as Python dictionaries
+<br><b>-</b>Python3
+<br><b>-</b>Classes and Objects (OOP)
+<br><b>-</b>Lists, loops, conditionals, input/output
+<br><b>-</b>Data source as Python dictionaries
 
 Files Structure:
-<br>-main.py — Contains game logic and initializes the quiz
-
-<br>-question_model.py — Defines the Question class
-
-<br>-quiz_brain.py — Defines the QuizBrain class
-
+<br><b>-</b>main.py — Contains game logic and initializes the quiz
+<br><b>-</b>question_model.py — Defines the Question class
+<br><b>-</b>quiz_brain.py — Defines the QuizBrain class
 <br><b>-</b>data.py — Stores quiz questions in dictionary format (question_data)
